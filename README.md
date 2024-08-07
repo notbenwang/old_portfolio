@@ -1,3 +1,7 @@
+# Retired Portfolio
+Uploaded around Fall 2023, retired July 2024. For more info on why, read [here](https://github.com/notbenwang/notbenwang.github.io/?tab=readme-ov-file#motivation).
+
+## Readme from Template
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
